@@ -2,8 +2,8 @@
  This is a program that simulates the way that humans see. The technique is fairly similar to the one used to create the game *Wolfenstein* as well as many others.
  
  ## Table of contents
- - [What can it do?](#What can it do?)
- - [How does it work?](#How does it work?)
+ - [What can it do?](#what-can-it-do?)
+ - [How does it work?](#how-does-it-work?)
     -[Raytracing](#Raytracing)
  
  # What can it do?
