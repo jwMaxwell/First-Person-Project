@@ -1,10 +1,10 @@
 # First Person Project
  This is a program that simulates the way that humans see. The technique is fairly similar to the one used to create the game *Wolfenstein* as well as many others.
  
- ## Table of contents
+ # Table of contents
  - [What can it do?](#what-can-it-do?)
  - [How does it work?](#how-does-it-work?)
-    -[Raytracing](#Raytracing)
+ -[Raytracing](#Raytracing)
  
  # What can it do?
  This program shows a very simplified and easy to understand version of how more complicated first person games are built. The code allows people to make their own maps as well as see the underlying code needed to create other similar games of their own.
